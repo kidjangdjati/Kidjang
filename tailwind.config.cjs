@@ -32,7 +32,7 @@ module.exports = {
               'border-radius': '0.25rem',
               'font-size': '0.875rem',
               'line-height': '1.5',
-              'font-family': "Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace",
+              'font-family': "IM Fell DW Pica, Georgia, serif",
             },
             'ol > li::before': {
               color: 'rgb(var(--color-text-bold))',
